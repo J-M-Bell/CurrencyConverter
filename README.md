@@ -1,2 +1,2 @@
 # CurrencyConverter
-A currency converter mobile app
+A mobile app for converting several currencies to the US Dollar.
